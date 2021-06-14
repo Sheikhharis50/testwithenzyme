@@ -1,0 +1,40 @@
+.formComponent {
+  padding: 20px 0px;
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.formComponent form {
+  width: 100%;
+}
+
+.form-control {
+  display: block;
+  margin-bottom: 20px;
+  width: 100%;
+  position: relative;
+}
+
+.form-control label,
+.form-control button {
+  display: block;
+}
+
+.form-control * {
+  padding: 5px;
+}
+
+.form-control label,
+.form-control input {
+  width: 100%;
+}
+
+.form-control button {
+  width: 50%;
+  margin-inline: 25%;
+}
+
+.form-control label {
+  margin-bottom: 5px;
+}
