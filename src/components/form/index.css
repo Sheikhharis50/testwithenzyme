@@ -27,7 +27,7 @@
 
 .form-control label,
 .form-control input {
-  width: 100%;
+  width: -moz-available;
 }
 
 .form-control button {
