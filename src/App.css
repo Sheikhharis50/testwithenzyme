@@ -17,6 +17,7 @@
   border-style: solid;
   border-width: 1px 1px 1px 0px;
   padding: 20px;
+  width: 50%;
 }
 
 .col:first-child {
